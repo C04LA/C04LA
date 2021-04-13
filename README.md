@@ -12,4 +12,4 @@ Meu nome é Gabriel, eu sou estudante em análise e desenvolvimento de sistemas,
 -   🔍  Atualmente aberto a novas oportunidades.
 -   📰  Trabalho com Python, Php e Ruby.
 -   📡  Neste momento busco colaborar com projetos back end .
--   💬  Sobre mim: Aficionado por games, radioamadorismo e eletronica!!
+-   💬  Sobre mim: Aficionado por games, esportes e eletronica!!
