@@ -13,3 +13,9 @@ Meu nome é Gabriel, eu sou estudante em análise e desenvolvimento de sistemas,
 -   📰  Trabalho com Python, Php e Ruby.
 -   📡  Neste momento busco colaborar com projetos back end .
 -   💬  Sobre mim: Aficionado por games, esportes e eletronica!!
+##
+### Analise dos projetos:
+<!-- Top Language Dashboard -->
+<a href="https://github.com/C04LA">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C04LA&theme=merko" />
+</a>
