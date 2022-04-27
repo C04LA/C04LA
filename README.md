@@ -6,7 +6,7 @@
 
 ### [](https://github.com/C04LA#opa-tudo-certo)Opa, tudo certo?
 
-Meu nome é Gabriel, eu sou estudante em análise e desenvolvimento de sistemas, atualmente brinco com arduino e python e sigo minha caminhada transformando tudo em código!
+Meu nome é Gabriel, eu sou formado em análise e desenvolvimento de sistemas, atualmente brinco com arduino e python e sigo minha caminhada transformando tudo em código!
 
 -   👨🏻‍💻 Back end Jr.
 -   🔍  Atualmente aberto a novas oportunidades.
